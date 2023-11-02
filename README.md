@@ -1,10 +1,5 @@
 # Product Overview Dashboard App with React.js, ApexCharts, and Bootstrap
 
-![Project Screenshot]
-
-https://github.com/IPH-Technologies-Pvt-Ltd/Product-Overview-Dashboard-App/assets/133772531/dc142490-036a-4705-8620-5eb8440a05fc
-
-eenshot.png)
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -72,4 +67,9 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README file includes the use of React.js, ApexCharts, and Bootstrap in your project and provides instructions for setting up and customizing the dashboard app. Please replace `yourusername`, `your-dashboard-app` with your specific project information.
+This README file includes the use of React.js, ApexCharts, and Bootstrap in your project and provides instructions for setting up and customizing the dashboard app.
+## Project Screenshot
+
+https://github.com/IPH-Technologies-Pvt-Ltd/Product-Overview-Dashboard-App/assets/133772531/dc142490-036a-4705-8620-5eb8440a05fc
+
+eenshot.png)
