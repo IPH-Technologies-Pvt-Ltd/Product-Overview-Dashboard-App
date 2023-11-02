@@ -1,0 +1,12 @@
+.heading{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 7px;
+}
+.heading a{
+    font-size: 14px;
+    color: #4dbde1
+}
+.heading span{
+    font-size: 15px;
+}
